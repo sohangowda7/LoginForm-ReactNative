@@ -27,7 +27,7 @@ const styles=StyleSheet.create({
   backgroundColor: "white"
  },
  form  : { 
- backgroundColor : "white" ,
+ backgroundColor : "#015F83" ,
   padding:20 , 
   borderRadius:10,
   shadowColor:"black",
